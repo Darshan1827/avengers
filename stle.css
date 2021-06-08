@@ -1,0 +1,18 @@
+body{
+    background: black;
+}
+ h1{
+     color :chartreuse;
+     text-align: center;
+     background: crimson;
+ }
+ p{
+     color: darkgrey;
+     text-align: center;
+ }
+ h2{
+     color: darkseagreen;
+ }
+ li{
+     color: rgb(137, 126, 141);
+ }
